@@ -1,0 +1,27 @@
+{
+"resources":
+	[
+		{"url":"assets/res.json","type":"sheet","name":"res_json"},
+		{"name":"background","type":"image","url":"assets/bg.jpg"},
+
+		{"name":"tilesColor1","type":"image","url":"assets/tilesColor1.png"},
+		{"name":"tilesColor2","type":"image","url":"assets/tilesColor2.png"},
+		{"name":"tilesColor3","type":"image","url":"assets/tilesColor3.png"},
+		{"name":"tilesColor4","type":"image","url":"assets/tilesColor4.png"},
+
+		{"name":"ic_gameover","type":"sound","url":"assets/ic_gameover.mp3"},
+		{"name":"ic_button","type":"sound","url":"assets/ic_button.mp3"},
+		{"name":"click","type":"sound","url":"assets/click.mp3"},
+		{"name":"btnPlay","type":"image","url":"assets/btnPlay.png"},
+		{"name":"shareTips","type":"image","url":"assets/shareTips.png"},
+		{"name":"start1","type":"image","url":"assets/start1.png"},
+		{"name":"start2","type":"image","url":"assets/start2.png"},
+		{"name":"start3","type":"image","url":"assets/start3.png"}
+
+	],
+
+"groups":
+	[
+        {"name":"preload","keys":"res_json,tilesColor1,tilesColor2,tilesColor3,tilesColor4,ic_gameover,ic_button,click,btnPlay,shareTips"}
+	]
+}
